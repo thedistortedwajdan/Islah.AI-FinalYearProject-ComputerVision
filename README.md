@@ -1,1 +1,0 @@
-# Islah.AI-FinalYearProject-ComputerVision
